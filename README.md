@@ -34,7 +34,7 @@ This project analyzes employee data using SQL and Looker Studio to identify key 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard_attrition.png)
 
 ---
 
